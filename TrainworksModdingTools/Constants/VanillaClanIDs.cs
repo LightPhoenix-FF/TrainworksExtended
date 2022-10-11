@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JetBrains.Annotations;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -14,6 +15,7 @@ namespace Trainworks.Constants
         public const string Stygian = "9317cf9a-04ec-49da-be29-0e4ed61eb8ba";
         public const string Umbra = "4fe56363-b1d9-46b7-9a09-bd2df1a5329f";
         public const string MeltingRemnant = "fda62ada-520e-42f3-aa88-e4a78549c4a2";
+        public const string Wurmkin = "46ae87db-d92e-4fcb-a3bc-67c723d7bebd";
         public const string Clanless = null;
     }
 }
