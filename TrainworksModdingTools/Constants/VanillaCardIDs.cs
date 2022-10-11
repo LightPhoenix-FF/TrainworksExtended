@@ -933,5 +933,60 @@ namespace Trainworks.Constants
         /// Asset name: VoidBinding
         /// </summary>
         public static readonly string VoidBinding = "777eb807-d29c-45e5-b1f2-cafd768ce2a5";
+
+        public static readonly string Steelsinger = "55f5945e-8cb3-4577-9207-a92c5deb78d5";
+        public static readonly string OldeMagic = "126c5aac-3d6d-4452-825b-1af9e46c01e8";
+        public static readonly string GoodOlWingmaker = "62dee95d-4d9e-4302-840d-805942b4fd03";
+        public static readonly string HephTheBlacksmith = "6f770340-a37d-4e25-9a93-6b2e46f9a252";
+        public static readonly string NexusSpike = "b4e5b90b-6f82-44ee-8310-eeccb41210b1";
+        public static readonly string NexusSpike2 = "40128d00-801b-410c-bbb8-ab6ee15b0aff";
+        public static readonly string ForTheGreaterGood = "699a89c4-83c5-4fd2-8127-83624bdf032c";
+        public static readonly string ApexImp = "a83756a0-7264-47d1-a661-d8ab2420fe29";
+        public static readonly string HallowedHalls = "c6484604-b077-43ce-84a4-0179d2f36352";
+        public static readonly string EelGorgon = "eaaae54e-58ed-4926-b5bb-a0b36404c4b7";
+        public static readonly string MorselMade = "13876e8d-b111-429d-acdb-2e095fda897e";
+        public static readonly string BogFly = "a524d58a-6b12-4ec4-870c-679837e234cf";
+        public static readonly string BoundingEchoes = "4e8b6d4c-ee6b-46e7-8804-b94489af371d";
+        public static readonly string EchoInfusion = "096def92-500b-4b1f-89f7-43e96aa1e54a";
+        public static readonly string EchoSnare = "75ce1442-757b-4e9f-826d-8325f3dc7d9e";
+        public static readonly string EchoTransfer = "afbbafc8-fd5a-42af-ac79-a677ab0185d8";
+        public static readonly string HostingKin = "5ae81798-157e-4fcb-b4e6-822ff40843b0";
+        public static readonly string Proclamation = "4de04eeb-76d9-4ad0-b5cd-8c2b997395f5";
+        public static readonly string Shelter = "1754dece-cf0b-455e-b9ca-d238134d7762";
+        public static readonly string BogChrysalis = "27b0fdda-5dc4-4280-a510-fe51e550e3fb";
+        public static readonly string BogdeepCocoon = "07448181-5b6f-404a-88ff-cb4d8ac8a3b1";
+        public static readonly string BogWurmling = "a65f1715-c61b-4339-911e-5d64412afa24";
+        public static readonly string FirstOfKin = "51ae5be0-5fbf-4be2-94a7-0f18d51fcc54";
+        public static readonly string Glareminder = "47ea291c-0faa-4cbb-a559-8c57e2934ad0";
+        public static readonly string Glugsider = "e83182b1-ae94-4f7e-b7fe-aea5b825ecbe";
+        public static readonly string KeeperOfEchoes = "1acb9146-44b9-476c-a30e-5778750710a1";
+        public static readonly string KinhostCarapace = "8fcb523c-690f-44cb-887d-7112795a50a1";
+        public static readonly string KinhostPupa = "caa7dad5-e3a5-45f7-a5d6-1133162dd528";
+        public static readonly string KinhostVessel = "057f7f77-df4b-4981-9e6d-533a6e667f39";
+        public static readonly string ShardsoulCarver = "8cd475e4-6e39-4306-b544-026bf30f4eac";
+        public static readonly string EchoBreak = "6730f232-eba5-4b86-b8fc-fdb673d7824d";
+        public static readonly string Fracture = "b197fdec-a77d-49f5-bc05-6233b7ce01c7";
+        public static readonly string SpineChief = "8b6c19ce-c8d0-4a77-b33a-e490d0d1b282";
+        public static readonly string Echowright = "15e25a50-5235-4c45-803b-cada23022671";
+        public static readonly string AcceleratedIncubation = "71df734f-cb47-4f8b-a298-d15052e6b396";
+        public static readonly string EchoesOfThePast = "78996030-e8d1-4731-897e-ee4b809fa26c";
+        public static readonly string EternalKinstone = "c354dd2c-0087-4eae-82d9-d4ab17b15f19";
+        public static readonly string PerfectInsanity = "9d04efb5-8794-42a8-8282-e8ef895e6c3a";
+        public static readonly string SymphonyOfTheSoul = "f213cc62-90f4-4bc8-a96f-0b191a7ec7ef";
+        public static readonly string UnearthedRemains = "17fb5276-2311-44c9-b662-b73581d9af56";
+        public static readonly string WurmkinEtchings = "0e50f7bc-c7c4-46b5-98a4-33d32194d7b8";
+        public static readonly string WurmkinSpike = "83c87c23-39a9-4c92-a6d0-3f640c35534d";
+        public static readonly string AmbientCharge = "75cfe90b-47b9-406c-b891-33564aac6677";
+        public static readonly string AncientResonance = "f2bed1d3-6b52-43d5-8b97-bfe5c90dce53";
+        public static readonly string BrokenMemories = "f954f70d-e83b-4c64-9827-89e5770a56ef";
+        public static readonly string ForcedContamination = "1cc57bf5-b4c0-4102-8fb3-0c7e68813472";
+        public static readonly string ForgottenTrade = "fccd2d4d-8751-4d7b-bd0a-e66f7586b275";
+        public static readonly string PowerOfKnowledge = "f50ecee3-8bde-4100-a315-a362ff23a561";
+        public static readonly string ReturnedSoul = "6a3633b6-4ecc-43b1-bb56-548f56cf1d60";
+        public static readonly string RevengeOfTheDamned = "ae114dc4-d08f-4909-a2ad-d99215661463";
+        public static readonly string SoulCripple = "9e2edcaf-b882-4b8e-ae02-95470ab63047";
+        public static readonly string SoulcrushingGuilt = "aaaddead-a999-40ae-8327-a6f977645c04";
+        public static readonly string SoulSiphon = "95f7b6b7-a574-477d-abef-a8bd3388d87b";
+        public static readonly string TotalRecall = "e99ddd0d-895f-4211-a6b5-ce95175d3fea";
     }
 }
